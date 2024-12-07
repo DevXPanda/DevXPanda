@@ -8,7 +8,7 @@ Welcome to my corner of the tech universe 🌌! I specialize in crafting efficie
 
 🚀 Skills & Technologies
 👨‍💻 Languages:
-JavaScript | C++ | HTML | CSS | Solidity
+JavaScript | C++ | HTML | CSS | Solidity | Python
 
 🛠️ Tools & Frameworks:
 Node.js | React.js
