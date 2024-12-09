@@ -20,7 +20,6 @@ Web3 & Blockchain Integration
 Full-Stack Application Development
 
 🌐 Connect With Me
-GitHub: github.com/DevXPanda
 LinkedIn:https://www.linkedin.com/in/satyam-pandey-b5818824b
 Instagram:https://www.instagram.com/satyammm.19/profilecard/?igsh=bGN1cjhkc2Robmtt
 Email me: satyamkumarpandey4567@gmail.com
