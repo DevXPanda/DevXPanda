@@ -4,7 +4,10 @@ Blockchain & Full-Stack Developer | Code Enthusiast
 
 Welcome to my corner of the tech universe 🌌! I specialize in crafting efficient, scalable, and secure solutions using modern technologies. Passionate about Web3, decentralized systems, and building with innovation.
 
+🔗 Live Portfolio
 
+🎯 Visit the Website:
+➡️ https://devxpanda.netlify.app
 
 🚀 Skills & Technologies
 👨‍💻 Languages:
