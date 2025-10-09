@@ -7,7 +7,7 @@ Welcome to my corner of the tech universe 🌌! I specialize in crafting efficie
 🔗 Live Portfolio
 
 🎯 Visit the Website:
-➡️ https://devxpanda.netlify.app
+➡️ https://xpandaa.netlify.app
 
 🚀 Skills & Technologies
 👨‍💻 Languages:
