@@ -11,14 +11,14 @@ Welcome to my corner of the tech universe 🌌! I specialize in crafting efficie
 
 🚀 Skills & Technologies
 👨‍💻 Languages:
-JavaScript | C++ | HTML | CSS | Solidity | Python
+JavaScript | C++ | FullStack Development | AI Enginner | Python |
 
 🛠️ Tools & Frameworks:
 Node.js | React.js
 MongoDB | Linux
 
 🌟 Expertise Areas:
-Smart Contract Development
+AI/Ml Engineer
 Web3 & Blockchain Integration
 Full-Stack Application Development
 
