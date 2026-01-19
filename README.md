@@ -1,8 +1,8 @@
 
 👋 Hi there! I'm Satyam Pandey 👨‍💻
-Blockchain & Full-Stack Developer | Code Enthusiast
+AI Engineer & Full-Stack Developer | A Open Source Contributer 
 
-Welcome to my corner of the tech universe 🌌! I specialize in crafting efficient, scalable, and secure solutions using modern technologies. Passionate about Web3, decentralized systems, and building with innovation.
+Welcome to my corner of the tech universe 🌌! I specialize in crafting efficient, scalable, and secure solutions using modern technologies. Passionate about Web3, decentralized systems, and building with innovation to Open Source Development...
 
 🔗 Live Portfolio
 
